@@ -8,7 +8,7 @@
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-blue.svg)](https://www.linux.org/)
 [![Made with Rust](https://img.shields.io/badge/Made%20with-Rust-red.svg)](https://www.rust-lang.org/)
-[![GitHub stars](https://img.shields.io/github/stars/il1v3y/jetbrains-trial-reset?style=social)](https://github.com/il1v3y/jetbrains-trial-reset)
+[![GitHub stars](https://img.shields.io/github/stars/ind4skylivey/jetbrains-trial-reset?style=social)](https://github.com/ind4skylivey/jetbrains-trial-reset)
 
 **Lightweight** • **Blazingly Fast** • **Safe** • **Open Source**
 
