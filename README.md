@@ -310,10 +310,9 @@ MIT License - Copyright (c) 2025 il1v3y
 
 **il1v3y**
 
-Security Researcher • Red Team Operator • Rust Developer
+Security Researcher • Red Team Operator • Python/PHP/Rust Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-il1v3y-black?style=flat&logo=github)](https://github.com/il1v3y)
-[![Twitter](https://img.shields.io/badge/Twitter-@il1v3y-blue?style=flat&logo=twitter)](https://twitter.com/il1v3y)
 
 </div>
 
