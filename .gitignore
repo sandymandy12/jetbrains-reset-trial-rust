@@ -1,0 +1,33 @@
+# Rust
+/target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups (for testing)
+.jetbrains-trial-backups/
+
+# Build artifacts
+*.o
+*.so
+*.dylib
+*.dll
+
+# Internal documentation (not for GitHub)
+GITHUB_READY.md
+SUMMARY.md
+
+# Logs
+*.log
+README_OLD.md
