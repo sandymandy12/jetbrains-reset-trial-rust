@@ -91,8 +91,8 @@ jb-reset reset --all  # Reset all trials in <200ms
 ### Quick Install (Recommended)
 
 ```bash
-git clone https://github.com/il1v3y/jetbrains-trial-reset.git
-cd jetbrains-trial-reset
+git clone https://github.com/sandymandy12/jetbrains-reset-trial-rust.git
+cd jetbrains-reset-trial-rust
 sudo ./scripts/install.sh
 ```
 
